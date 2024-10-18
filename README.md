@@ -46,7 +46,4 @@ These insights into city-specific preferences and market dynamics provide valuab
 - **Fangzhou(Franco) Zheng**
 - **Manan Goel**
 - **Zicheng Wang**
-  
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
