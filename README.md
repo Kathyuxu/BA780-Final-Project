@@ -41,7 +41,7 @@ These insights into city-specific preferences and market dynamics provide valuab
 - **/figures:** Holds the generated figures and visual outputs.
 
 ## Contributors
-- **[Yu(Kathy) Xu]**
+- **Yu(Kathy) Xu**
 - **[Ruoxian(Roxy) Zhang]**
 - **[Fangzhou(Franco) Zheng]**
 - **[Manan Goel]**
